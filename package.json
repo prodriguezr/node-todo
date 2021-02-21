@@ -1,0 +1,17 @@
+{
+  "name": "04-task-todo",
+  "version": "0.0.1",
+  "description": "Application that allows us to create, update and delete tasks to do. It also allows us to leave them as completed and / or pending",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task",
+    "todo",
+    "node",
+    "js"
+  ],
+  "author": "Pablo Rodríguez",
+  "license": "ISC"
+}
